@@ -62,13 +62,13 @@
    #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
    #resume .main-col { padding-right: 5%; }   
 
-   /* Famous-quotes Section
+   /* Testimonials Section
    ------------------------------------------------------------------- */
-   #Famous-quotes .header-col h1:before {
+   #testimonials .header-col h1:before {
       font-size: 66px;
       line-height: 66px;
    }
-   #Famous-quotes blockquote p {
+   #testimonials blockquote p {
       font-size: 22px;
       line-height: 46px;      
    }
@@ -252,25 +252,25 @@
    #call-to-action p { font-size: 15px; }
 
 
-   /* My-pet Section
+   /* Portfolio Section
    /* ----------------------------------------------------------------- */
-   #My-pet-wrapper .columns { margin-bottom: 40px; }
+   #portfolio-wrapper .columns { margin-bottom: 40px; }
    .popup-modal {	max-width: 85%; }
 
 
-   /* Famous-quotes Section
+   /* Testimonials Section
    ----------------------------------------------------------------------- */
-   #Famous-quotes .text-container { text-align: center; }
-   #Famous-quotes h1 {
+   #testimonials .text-container { text-align: center; }
+   #testimonials h1 {
       font: 16px/24px 'opensans-bold', sans-serif;
       text-align: center;
       margin-bottom: 30px;
       text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
    }
-   #Famous-quotes h1 span { display: block; }
-   #Famous-quotes .header-col h1:before { content: none; }
-   #Famous-quotes blockquote { padding-bottom: 24px; }
-   #Famous-quotes blockquote p {
+   #testimonials h1 span { display: block; }
+   #testimonials .header-col h1:before { content: none; }
+   #testimonials blockquote { padding-bottom: 24px; }
+   #testimonials blockquote p {
       font-size: 20px;
       line-height: 42px;      
    }
